@@ -1,0 +1,11 @@
+cot(tan(x))
+0
+sin(1/x)
+cot(tan(x))
+x^3*tan(x)
+cos(cot(x))
+cot(tan(x))
+sin(tan(x))
+sin(tan(x))
+tan(cos(x))
+sin(tan(x))
